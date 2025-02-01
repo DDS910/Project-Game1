@@ -22,5 +22,5 @@ Epic Adventure: Engage in thrilling adventure and daring rescues.
 ##Feedback & Support
 I highly appreciate your feedback! If you experience any issues or have suggestions, please contact us via email or GitHub:
 
-Email: sutantodenis@gmail.com
-GitHub: DDS910
+- Email: sutantodenis@gmail.com
+- GitHub: DDS910
