@@ -1,6 +1,6 @@
 # Pedro the Shadow King
 Welcome to **Pedro the Shadow**!
-An action-adventure game where you play as a legendary hero on a quest to save the kidnapped princess and protect your village.
+A 2D action-adventure game where you play as Pedro, a legendary hero on a quest to save the kidnapped princess and protect his village.
 
 ## Description
 In a peaceful village, Pedro is known for his bravery in defending the people from countless threats. He has fought off the darkness and is admired by many, including the village princess.
